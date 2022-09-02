@@ -1,1 +1,1 @@
-# anti-socialclub-spoofer
+# Anti Socialclub Spoofer
