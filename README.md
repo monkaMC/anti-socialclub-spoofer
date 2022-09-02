@@ -8,5 +8,7 @@ put the files from the repo in the packages folder, open an terminal and run `np
 # Note
 this tool is not protecting to 100% all social club spoofers. its just only takes the rg account id from ragemp and checks this per official rockstar games services.
 
+aswell credits to @soren-source for clean up my shit code.
+
 # Contact
 Discord: Cousin#4191
