@@ -11,4 +11,4 @@ this tool is not protecting to 100% all social club spoofers. its just only take
 aswell credits to @soren-source for clean up my shit code.
 
 # Contact
-Discord: Cousin#4191
+Discord: Cousin#1111 / handler#1337
